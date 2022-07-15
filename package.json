@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node get-roster.js"
+  },
+  "dependencies": {
+    "json2csv": "^5.0.7",
+    "node-fetch": "^2.6.7"
+  }
+}
